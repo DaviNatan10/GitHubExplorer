@@ -55,6 +55,7 @@ typings/
 .env*
 
 # Library
+dist
 dist/
 typings/
 
